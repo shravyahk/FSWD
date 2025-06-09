@@ -1,11 +1,11 @@
-const logotext = "Shravya";
+const logotext = "Venu Gopal B H";
 const meta = {
-    title: "Shravya H K",
-    description: "I’m Shravya H K Full stack devloper and AI prompt engineer",
+    title: "Venu Gopal B H",
+    description: "I’m Venu Gopal B H  Full stack devloper and AI prompt engineer",
 };
 
 const introdata = {
-    title: "I’m Shravya H K",
+    title: "I’m Venu Gopal B H ",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -81,7 +81,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "shkmce@gmail.com",
+    YOUR_EMAIL: "venugopal@gmail.com",
     YOUR_FONE: "(555)123-4567",
     description: "Contact me for any inquiries or collaborations. I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision.",
     // creat an emailjs.com account 
